@@ -1,4 +1,4 @@
-# CSharp-SimpleCalculator
+# C#-SimpleCalculator
 I developed a simple calculator with C#
 
 <h1 align="center">
